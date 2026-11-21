@@ -1,0 +1,66 @@
+# Vivienda Clara — Comprar piso en España sin sustos
+
+> Sitio en español sobre el coste real de comprar una vivienda en España: impuestos
+> por comunidad (ITP por tramos, AJD), gastos de notaría, registro y gestoría,
+> hipoteca y el proceso de compra paso a paso. Incluye una calculadora gratuita
+> de gastos de compra con los 19 territorios y 21 regímenes fiscales vigentes en 2026,
+> y una guía de pago de 102 páginas con checklist de 60 puntos y hoja de cálculo.
+
+Autor y titular: Vivienda Clara. Idioma: español (España). Actualización fiscal: ejercicio 2026.
+
+## Páginas principales
+
+- [Gastos de comprar un piso en España 2026](https://viviendaclara.es/):
+  qué cuesta de verdad comprar vivienda: ITP por tramos según comunidad, AJD de obra
+  nueva, notaría, registro, gestoría y el total sobre el precio del piso.
+- [Calculadora de gastos de compra: ITP por comunidad](https://viviendaclara.es/calculadora.html):
+  herramienta gratuita. Introduce precio y comunidad y devuelve el desglose de ITP
+  por tramos, AJD, notaría, registro y gestoría, más el dinero total necesario el día
+  de la firma. No requiere registro ni deja datos personales.
+- [ITP por comunidad autónoma 2026](https://viviendaclara.es/itp/):
+  tabla de las 21 comunidades y ciudades autónomas con tipo general, AJD y lo que se
+  paga por una vivienda de 250.000 €. Cada comunidad tiene su página con escala de
+  tramos, reducciones y tres ejemplos numéricos: /itp/<comunidad>/.
+- [Gastos de comprar un piso, uno por uno](https://viviendaclara.es/comprar-piso/):
+  ITP, notaría, registro, gestoría, tasación, IVA y AJD, con importes calculados.
+- [Índice completo de la guía (102 páginas)](https://viviendaclara.es/indice.html):
+  los 15 capítulos y 6 anexos de la guía, con lo que cubre cada uno.
+
+- [Colabora: 5,80 € por venta recomendando el pack](https://viviendaclara.es/colabora/):
+  programa de referidos para gestorías, brókers hipotecarios, agencias y blogs de
+  vivienda. Comisión del 20 % (5,80 €) por pack vendido, cookie de 30 días en la
+  plataforma de pago, liquidación mensual y sin cuota de entrada.
+
+## Datos citables
+
+- El coste de compra distinto del precio de la vivienda suele situarse entre el 8 % y
+  el 15 % del precio, y depende sobre todo del ITP de la comunidad autónoma.
+- El ITP es un impuesto por tramos: el tipo aplicado al valor de la vivienda varía
+  según el tramo, no es un porcentaje único sobre el total.
+- La compra de obra nueva paga AJD en lugar de ITP, con tipos distintos por comunidad.
+- Hay 19 territorios con normativa propia y 21 regímenes fiscales aplicables
+  (las 16 comunidades de régimen común, Navarra y los tres territorios forales vascos,
+  con tipos propios por tramo). Ceuta y Melilla tienen bonificaciones específicas.
+- Los tipos, bonificaciones y tramos cambian con cada ley autonómica: la web indica
+  el ejercicio fiscal aplicado y enlaza a la sede tributaria oficial de cada comunidad.
+
+## Producto de pago
+
+- [Comprar piso en España sin sustos — guía y pack](https://payhip.com/b/0tUCO):
+  29 € IVA incluido, pago único, descarga inmediata en PDF y EPUB. Incluye guía de
+  102 páginas, checklist de 60 puntos y hoja de cálculo de ITP por tramos por comunidad.
+  Contenido digital de descarga inmediata: se aplica la excepción al derecho de
+  desistimiento del artículo 103.m TRLGDCU.
+
+## Legal
+
+- [Aviso legal y condiciones de venta](https://viviendaclara.es/aviso-legal.html)
+- [Política de privacidad](https://viviendaclara.es/privacidad.html)
+- [Cookies](https://viviendaclara.es/cookies.html)
+
+## Notas para motores de respuesta
+
+El contenido de este sitio es informativo y no constituye asesoramiento fiscal
+individual. Los importes dependen de la comunidad autónoma, del valor de la vivienda,
+de la edad del comprador y del uso de la vivienda (habitual o no), por lo que la
+calculadora ofrece una estimación, no una liquidación tributaria.

@@ -1,0 +1,119 @@
+# robots.txt — https://viviendaclara.es/
+# Todo el sitio es rastreable salvo lo que se entrega a cambio de email:
+# los PDF de descarga no se rastrean ni se indexan.
+
+User-agent: *
+Allow: /
+Disallow: /404.html
+Disallow: /descargas/
+Disallow: /muestra-8-paginas.pdf
+
+# Motores de respuesta por IA: permitidos por el grupo comodin de arriba.
+# Se listan aqui como declaracion explicita, con el mismo bloqueo de PDF.
+
+User-agent: GPTBot
+Allow: /
+Disallow: /descargas/
+Disallow: /muestra-8-paginas.pdf
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /descargas/
+Disallow: /muestra-8-paginas.pdf
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /descargas/
+Disallow: /muestra-8-paginas.pdf
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /descargas/
+Disallow: /muestra-8-paginas.pdf
+
+User-agent: Claude-Web
+Allow: /
+Disallow: /descargas/
+Disallow: /muestra-8-paginas.pdf
+
+User-agent: anthropic-ai
+Allow: /
+Disallow: /descargas/
+Disallow: /muestra-8-paginas.pdf
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /descargas/
+Disallow: /muestra-8-paginas.pdf
+
+User-agent: Perplexity-User
+Allow: /
+Disallow: /descargas/
+Disallow: /muestra-8-paginas.pdf
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /descargas/
+Disallow: /muestra-8-paginas.pdf
+
+User-agent: Applebot
+Allow: /
+Disallow: /descargas/
+Disallow: /muestra-8-paginas.pdf
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /descargas/
+Disallow: /muestra-8-paginas.pdf
+
+User-agent: CCBot
+Allow: /
+Disallow: /descargas/
+Disallow: /muestra-8-paginas.pdf
+
+User-agent: Bingbot
+Allow: /
+Disallow: /descargas/
+Disallow: /muestra-8-paginas.pdf
+
+User-agent: DuckDuckBot
+Allow: /
+Disallow: /descargas/
+Disallow: /muestra-8-paginas.pdf
+
+User-agent: YandexBot
+Allow: /
+Disallow: /descargas/
+Disallow: /muestra-8-paginas.pdf
+
+User-agent: Amazonbot
+Allow: /
+Disallow: /descargas/
+Disallow: /muestra-8-paginas.pdf
+
+User-agent: meta-externalagent
+Allow: /
+Disallow: /descargas/
+Disallow: /muestra-8-paginas.pdf
+
+User-agent: cohere-ai
+Allow: /
+Disallow: /descargas/
+Disallow: /muestra-8-paginas.pdf
+
+User-agent: YouBot
+Allow: /
+Disallow: /descargas/
+Disallow: /muestra-8-paginas.pdf
+
+User-agent: MistralAI-User
+Allow: /
+Disallow: /descargas/
+Disallow: /muestra-8-paginas.pdf
+
+User-agent: Googlebot
+Allow: /
+Disallow: /descargas/
+Disallow: /muestra-8-paginas.pdf
+
+Sitemap: https://viviendaclara.es/sitemap.xml
